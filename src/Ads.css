@@ -1,0 +1,15 @@
+.ads1{
+    display: flex;
+    flex-direction: column;
+    flex : 0.23;
+    margin-left: 20px;
+     margin-top: -30px;
+    background-color: #fffefa;
+
+}
+
+.casio{
+    margin-left: 1px;
+    width: 20%;
+    position:fixed;
+}

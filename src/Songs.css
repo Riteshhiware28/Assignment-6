@@ -1,0 +1,81 @@
+
+.songs{
+    display: flex;
+    flex-direction: column;
+    flex: 0.77;
+    margin-left: 55px;
+}
+.abc{
+    width: 100%;
+    display: flex;
+    overflow: hidden;
+    display: flex;
+    margin-top: 15px;
+    text-align: center;
+    position: relative;
+}
+.abc .banner .d-block{
+   /* border: 2px solid black; */
+    border-radius: 5px;
+    height: 200px;
+}
+
+.abcd{
+    width: 95%;
+    display: flex;
+    margin-top: 10px;
+    overflow: hidden;
+    z-index: 0;
+}
+
+.banner img{
+    /* border: 2px solid black; */
+    width: 100%;
+    border-radius: 5px;
+    height: 100%;
+}
+.recent{
+    margin-top: 40px;
+    margin-left: 5px;
+    font-family: text;
+    font-size: 25px;
+}
+.see{
+     margin-left: 70%;
+      font-size: 14px; 
+      color:rgb(231,44,48); 
+}
+.see1{
+     margin-left: 72%;
+      font-size: 14px; 
+      color:rgb(231,44,48); 
+}
+.see2{
+     margin-left: 74%;
+      font-size: 14px; 
+      color:rgb(231,44,48); 
+}
+.see3{
+     margin-left: 68%;
+      font-size: 14px; 
+      color:rgb(231,44,48); 
+}
+.see4{
+     margin-left: 79%;
+      font-size: 14px; 
+      color:rgb(231,44,48); 
+}
+.see5{
+     margin-left: 63%;
+      font-size: 14px; 
+      color:rgb(231,44,48); 
+}
+.abcd1{
+    width: 95%;
+    display: flex;
+    margin-top: 10px;
+    overflow: hidden;
+}
+.abcd1 .banner img{
+   border-radius: 90px;
+}
